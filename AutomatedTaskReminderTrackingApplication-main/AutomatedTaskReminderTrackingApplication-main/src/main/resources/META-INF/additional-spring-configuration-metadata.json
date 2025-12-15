@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "task.scheduler.pool-size",
+  "type": "java.lang.String",
+  "description": "A description for 'task.scheduler.pool-size'"
+}]}
