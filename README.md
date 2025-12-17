@@ -7,12 +7,19 @@ The Automated Task Reminder System is a software application designed to help us
 - To reduce manual tracking of tasks
 ## 🛠️ Technologies Used
 Java – Core programming language used to build the application logic.
+
 Spring Boot – Used to develop REST APIs and manage backend services.
+
 MySQL – Database used to store tasks, reminder schedules, and user details.
+
 JDBC  – For database connectivity and data management.
+
 Spring Scheduler – To automatically trigger reminders at scheduled times.
+
 Email Service (SMTP) – Used to send reminder notifications to users.
+
 REST APIs – Enables communication between frontend and backend.
+
 Git & GitHub – Used for version control and code management.
 ## ⚙️ Features
 - Add, update, and delete tasks  
