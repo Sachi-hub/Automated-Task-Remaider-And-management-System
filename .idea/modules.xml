@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/task_reminder_frontend_react-main (3).iml" filepath="$PROJECT_DIR$/.idea/task_reminder_frontend_react-main (3).iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Task Remaider Project.iml" filepath="$PROJECT_DIR$/.idea/Task Remaider Project.iml" />
+>>>>>>> c4ff98d7defbd7a48747196da171a011c5a1fa3c
     </modules>
   </component>
 </project>
